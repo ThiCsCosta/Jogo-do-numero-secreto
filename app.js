@@ -1,5 +1,5 @@
 let listaDeNumerosSorteado = [];
-let numeroMaximoLimite = 5;
+let numeroMaximoLimite = 100;
 let numeroSecreto = gerarNumeroAletorio();
 let tentativas = 1;
 //  let titulo = document.querySelector('h1');
